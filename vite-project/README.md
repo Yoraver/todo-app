@@ -33,7 +33,7 @@ Node.js installed on your system.
 npm  for package management.
 Steps to Run the Application
 Clone the Repository
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/Yoraver/todo-list.git
 cd todo-list
 Install Dependencies
 
